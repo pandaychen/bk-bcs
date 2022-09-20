@@ -33,7 +33,6 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway v1.9.5
 	github.com/juju/ratelimit v1.0.1
 	github.com/micro/go-micro/v2 v2.9.1
-	github.com/micro/go-plugins/broker/rabbitmq/v2 v2.9.1
 	github.com/micro/go-plugins/broker/stan/v2 v2.9.1
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
 	github.com/nats-io/stan.go v0.8.2
